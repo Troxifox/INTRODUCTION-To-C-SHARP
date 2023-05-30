@@ -1,4 +1,4 @@
-# INTRODUCTION-To-C-SHARP
+# INTRODUCTION-To-C#
 Introduction :
 L'objectif de cet ensemble d'exercices est de vous initier aux bases du développement C# MVC en utilisant Visual Studio Code.
 
