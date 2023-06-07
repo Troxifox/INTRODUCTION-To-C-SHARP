@@ -78,9 +78,7 @@ app.UseEndpoints(endpoints =>
 
 Étape 6 : Testez le nouveau contrôleur et la vue
 1. Arrêtez l'application en cours d'exécution si elle est toujours active (Ctrl+C dans le terminal).
-2. Exécutez à nouveau l'application à l'a
-
-ide de la commande `dotnet run`.
+2. Exécutez à nouveau l'application à l'aide de la commande `dotnet run`.
 3. Ouvrez un navigateur Web et visitez l'URL fournie dans le terminal.
 4. Vous devriez voir le message "Bienvenue dans l'application MVC !" sur la page d'accueil.
 
